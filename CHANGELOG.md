@@ -6,6 +6,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [Released] 
+
+## [0.2.0] - 2022-04-22
+### Changed
+- Bump version to 0.2.0
+
 ## [0.1.1] - 2022-04-21
 ### Added
 - data.txt
@@ -18,8 +24,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - ynablog.sql
 ### Changed
 - This changelog
-
-## [Released] 
 
 ## [0.0.1] - 2022-04-19
 ### Added
